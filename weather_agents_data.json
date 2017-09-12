@@ -1,0 +1,32 @@
+[
+  {
+    "agentName": "w1",
+    "agentId": "1",
+    "weather": "SUNNY",
+    "temperature": 18,
+    "location": {
+      "lat": 1,
+      "lon": 1
+    }
+  },
+  {
+    "agentName": "w2",
+    "agentId": "2",
+    "weather": "SUNNY",
+    "temperature": 22,
+    "location": {
+      "lat": 2,
+      "lon": 2
+    }
+  },
+  {
+    "agentName": "w3",
+    "agentId": "3",
+    "weather": "SUNNY",
+    "temperature": 22,
+    "location": {
+      "lat": 3,
+      "lon": 3
+    }
+  }
+]

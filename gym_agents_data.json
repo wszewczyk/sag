@@ -1,0 +1,29 @@
+[
+  {
+    "agentName": "g1",
+    "agentId": "1",
+    "load": 60,
+    "location": {
+      "lat": 1,
+      "lon": 1
+    }
+  },
+  {
+    "agentName": "g2",
+    "agentId": "2",
+    "load": 34,
+    "location": {
+      "lat": 2,
+      "lon": 2
+    }
+  },
+  {
+    "agentName": "g3",
+    "agentId": "3",
+    "load": 72,
+    "location": {
+      "lat": 3,
+      "lon": 3
+    }
+  }
+]
